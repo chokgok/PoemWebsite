@@ -9,3 +9,6 @@ We had our Thanksgiving celebration.
 Now Christmas is all over the nation.
 Say goodbye the season of fall.
 Say hello to the Santa in the mall.
+
+I know this is plain text.
+But I'm too lazy for hypertext.
